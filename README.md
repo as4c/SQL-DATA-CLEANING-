@@ -12,4 +12,6 @@ This SQL project involves cleaning and standardizing data from the `NashvilleHou
 6. [Delete Unused Columns](#delete-unused-columns)
 
 ## Overall structured data will look like :-
-![Example Image](https://github.com/your_username/your_repository/raw/main/path/to/example.png)
+![final results](https://github.com/as4c/SQL-DATA-CLEANING-/blob/main/Screenshot%202023-07-19%20224654.png)
+![final results](https://github.com/as4c/SQL-DATA-CLEANING-/blob/main/Screenshot%202023-07-19%20224623.png)
+
